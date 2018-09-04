@@ -42,9 +42,18 @@ De 01 a 03 parágrafos para demonstrar por que seu tema é relevante.
 ---
 
  1. Assunto principal
+    
+     - Automatização de calculos de séries temporais e classificação de produtos de acordo com a caracteristica de sua tendência
+
  2. Ponto de vista
  3. Palavras de ligação
- 3. Segmentação de acordo com a população, sujeito, ramo, lugar ou período.
+ 4. Segmentação de acordo com a população, sujeito, ramo, lugar ou período.
+
+### Dados a serem seguidos
+---
+
+#### Contextualização
+
 
 ## Problema
 ---

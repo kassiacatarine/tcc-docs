@@ -41,12 +41,17 @@ De 01 a 03 parágrafos para demonstrar por que seu tema é relevante.
 ---
 
  1. Assunto principal
-    
      - Automatização de calculos de séries temporais e classificação de produtos de acordo com a caracteristica de sua tendência.
-
  2. Ponto de vista
+     - A partir do ponto de vista de empresas que possuem problemas com a má gestão na administração.
  3. Palavras de ligação
+     - Administração.
+     - Gestão de produção.
+     - Previsão de demanda.
+     - Séries Temporais.
+     - Métodos Quantitativos.
  4. Segmentação de acordo com a população, sujeito, ramo, lugar ou período.
+     - População e ramo: Pessoas que segue no ramo de prestação de serviço e ou comercialização de produtos.
 
 ### Dados a serem seguidos
 ---

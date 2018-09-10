@@ -55,6 +55,7 @@ De 01 a 03 parágrafos para demonstrar por que seu tema é relevante.
 
 ### Dados a serem seguidos
 ---
+     - A aplicabilidade dos elementos essenciais de séries temporais para a administração de empresas que comercializa produtos e ou presta serviços
 #### Contextualização
 
 ## Problema
@@ -63,6 +64,11 @@ De 01 a 03 parágrafos para demonstrar por que seu tema é relevante.
 
 ### Estruturação de Desenvolvimento
 ---
+     - Problematização do tema prosposto
+
+### Dados a serem seguidos
+---
+ - Como deve se dar a aplicabilidade dos elementos essenciais de séries temporais para a administração de empresas que comercializa produtos e ou presta serviços?
 
 ## Objetivo Geral
 
@@ -70,6 +76,11 @@ De 01 a 03 parágrafos para demonstrar por que seu tema é relevante.
 
 ### Estruturação de Desenvolvimento
 ---
+ - De acordo com o tema e o problema proposto no trabalho
+
+### Dados a serem seguidos
+---
+ - Estipular como se deve dar a aplicabilidade dos elementos essenciais de séries temporais para a administração de empresas que comercializa produtos e ou presta serviços
 
 ## Objetivos Específicos
 
@@ -77,6 +88,17 @@ De 01 a 03 parágrafos para demonstrar por que seu tema é relevante.
 
 ### Estruturação de Desenvolvimento
 ---
+ - Estabelecido de acordo com tema proposto
+
+### Dados a serem seguidos
+---
+ - Divisão
+     - Elementos essenciais de séries temporais
+         - Indentificar os elementos essenciais das séries temporais
+     - Administração de empresas que comercializa produtos e ou presta serviços
+         - Explicar o por que da importância da aplicação dos elementos de séries temporais na administração de empresas
+     - A aplicabilidade
+         - Caracterizar a aplicação dos elementos essenciais de séries temporais
 
 ## Prévia dos Capítulos
 
@@ -84,6 +106,16 @@ De 01 a 03 parágrafos para demonstrar por que seu tema é relevante.
 
 ### Estruturação de Desenvolvimento
 ---
+ - De acordo com o objetivo especifico.
+
+### Dados a serem seguidos
+---
+ - Parte 1: Indentificar os elementos essenciais das séries temporais
+     - Entender, conhecer e os elementos essenciais das séries temporais
+ - Parte 2: Administração de empresas que comercializa produtos e ou presta serviços
+     - Entender e saber a importancia da aplicação da séries temporais na administração de empresas
+ - Parte 3: A aplicabilidade
+     - Especificação de como será utilizado e como será abordado cada método no contexto de administração de empresas
 
 ## Metodologia
 
